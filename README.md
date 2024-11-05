@@ -3,8 +3,8 @@ Esta es una aplicación de gestión de tareas desarrollada en Python. Permite ag
 como completadas y eliminar tareas. La aplicación utiliza Tkinter para la interfaz gráfica y sigue
 el enfoque de Desarrollo Guiado por Pruebas (TDD) junto con GitFlow para la gestión del código.
 ## Requisitos
-- Python 3.x
+- Python 3.12.5
 - Tkinter (incluido en la instalación estándar de Python)
 ## Instalación
 1. Clona este repositorio:
-  git clone <URL_del_repositorio>
+  git clone https://github.com/AlejandroEC98j/GestorDeTareas.git
