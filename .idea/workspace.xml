@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53206bbb-eb8f-4b48-837d-f69200270ade" name="Changes" comment="Cambios necesarios para cerrar la funcionalidad">
+    <list default="true" id="53206bbb-eb8f-4b48-837d-f69200270ade" name="Changes" comment="Cambios necesarios para cerrar la pruebas TDD">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_gestor_tareas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +35,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python tests.Python tests in test_gestor_tareas.py.executor": "Run",
+    "Python.gui_gestor_tareas.executor": "Run",
+    "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "feature/pruebas__TDD"
+    "git-widget-placeholder": "feature/interfaz"
   }
 }]]></component>
   <component name="RunManager">
@@ -89,12 +89,21 @@
       <option name="project" value="LOCAL" />
       <updated>1730783608628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cambios necesarios para cerrar la pruebas TDD">
+      <option name="closed" value="true" />
+      <created>1730784024463</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730784024463</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cambios necesarios para cerrar la funcionalidad" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambios necesarios para cerrar la funcionalidad" />
+    <MESSAGE value="Cambios necesarios para cerrar la pruebas TDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios necesarios para cerrar la pruebas TDD" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
