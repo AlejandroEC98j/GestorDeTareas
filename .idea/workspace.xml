@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53206bbb-eb8f-4b48-837d-f69200270ade" name="Changes" comment="Cambios necesarios para cerrar la pruebas TDD">
+    <list default="true" id="53206bbb-eb8f-4b48-837d-f69200270ade" name="Changes" comment="Cambios necesarios para lanzar la primera versión">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/vista/gui_gestor_tareas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_gestor_tareas.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python.gui_gestor_tareas.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/interfaz&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_gestor_tareas.py.executor": "Run",
+    "Python.gui_gestor_tareas.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="GestorTareas" />
@@ -97,13 +96,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730784024463</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Cambios necesarios para lanzar la primera versión">
+      <option name="closed" value="true" />
+      <created>1730784894878</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730784894878</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Cambios necesarios para cerrar la funcionalidad" />
+    <MESSAGE value="Agregar interfaz gráfica para el gestor tareas" />
     <MESSAGE value="Cambios necesarios para cerrar la pruebas TDD" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambios necesarios para cerrar la pruebas TDD" />
+    <MESSAGE value="Cambios necesarios para lanzar la primera versión" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios necesarios para lanzar la primera versión" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
