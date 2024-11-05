@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53206bbb-eb8f-4b48-837d-f69200270ade" name="Changes" comment="Cambios necesarios para lanzar la primera versión">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="53206bbb-eb8f-4b48-837d-f69200270ade" name="Changes" comment="Cambios necesarios para realizar el pull" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,7 +35,7 @@
     "Python.gui_gestor_tareas.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="RunManager">
@@ -104,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730784894878</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Cambios necesarios para realizar el pull">
+      <option name="closed" value="true" />
+      <created>1730786397106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730786397106</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -112,7 +118,8 @@
     <MESSAGE value="Agregar interfaz gráfica para el gestor tareas" />
     <MESSAGE value="Cambios necesarios para cerrar la pruebas TDD" />
     <MESSAGE value="Cambios necesarios para lanzar la primera versión" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cambios necesarios para lanzar la primera versión" />
+    <MESSAGE value="Cambios necesarios para realizar el pull" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cambios necesarios para realizar el pull" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
